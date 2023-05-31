@@ -1,0 +1,103 @@
+{"intents":[
+    {
+        "tag": "rose",
+        "input": "What is the meaning of a red rose?",
+        "output": "A red rose typically symbolizes love, passion, and romance."
+    },
+    {
+        "tag": "rose",
+        "input": "How do I care for my rose plant?",
+        "output": "Roses prefer well-draining soil, full sun, and regular watering. Prune in the spring to promote new growth and remove dead or diseased branches."
+    },
+    {
+        "tag": "rose",
+        "input": "What are some common diseases that affect rose plants?",
+        "output": "Rose plants can be affected by diseases such as black spot, powdery mildew, and rust. Regularly inspect your plants and treat any issues promptly."
+    },
+    {
+        "tag": "rose",
+        "input": "What is the best time of year to plant roses?",
+        "output": "Roses are typically planted in the spring or fall, when the weather is mild and there is plenty of moisture in the soil."
+    },
+    {
+        "tag": "lily",
+        "input": "How should I care for my lily plant?",
+        "output": "Lilies prefer a well-draining soil and partial shade. Keep the soil moist but not waterlogged, and fertilize everyfew weeks during the growing season."
+    },
+    {
+        "tag": "lily",
+        "input": "What types of lilies are there?",
+        "output": "There are many types of lilies, including Asiatic lilies, Oriental lilies, and trumpet lilies. Each type has its own unique characteristics and growing requirements."
+    },
+    {
+        "tag": "lily",
+        "input": "Can lilies be grown in containers?",
+        "output": "Yes, lilies can be grown in containers as long as the container is large enough and has good drainage. Use a high-quality potting mix and fertilize regularly to promote healthy growth."
+    },
+    {
+        "tag": "lily",
+        "input": "What is the meaning of a white lily?",
+        "output": "White lilies are often associated with purity, innocence, and sympathy, and are often used in funerals and other solemn occasions."
+    },
+    {
+        "tag": "daisy",
+        "input": "What colors do daisies come in?",
+        "output": "Daisies come in a variety of colors, including white, yellow, pink, and red."
+    },
+    {
+        "tag": "daisy",
+        "input": "How do I plant daisy seeds?",
+        "output": "Daisy seeds can be sown directly in the ground in the spring or fall, or started indoors several weeksbefore the last frost. Plant in well-draining soil and keep the soil moist until the seeds germinate."
+    },
+    {
+        "tag": "daisy",
+        "input": "What is the difference between a daisy and a sunflower?",
+        "output": "Daisies and sunflowers are both members of the aster family, but they have different physical characteristics and growing requirements. Daisies are typically smaller and prefer cooler temperatures, while sunflowers are larger and require full sun."
+    },
+    {
+        "tag": "sunflower",
+        "input": "What is the tallest sunflower on record?",
+        "output": "The tallest sunflower on record was grown in Germany and measured 30 feet and 1 inch tall."
+    },
+    {
+        "tag": "sunflower",
+        "input": "How do I harvest sunflower seeds?",
+        "output": "Wait until the back of the sunflower head turns brown and the seeds begin to loosen. Cut the head off the plant and hang it upside down in a dry, well-ventilated area until the seeds are dry and can be easily removed."
+    },
+    {
+        "tag": "sunflower",
+        "input": "What is the meaning of a sunflower?",
+        "output": "Sunflowers are often associated with happiness, warmth, and positivity, and are often given as gifts to brighten someone's day."
+    },
+    {
+        "tag": "sunflower",
+        "input": "How do I care for my sunflower plants?",
+        "output": "Sunflowers prefer full sun and well-draining soil. Water regularly, especially during hot, dry weather, and fertilize with a balanced fertilizer every few weeks during the growing season."
+    },
+    {
+        "tag": "sunflower",
+        "input": "Can sunflowers be grown in containers?",
+        "output": "Yes, sunflowers can be grown in containers as long as the container is large enough and has good drainage. Use a high-quality potting mix and place the container in a sunny location."
+    },
+    {
+        "tag": "orchid",
+        "input": "How often should I water my orchid plant?",
+        "output": "Orchids generally need to be watered once a week, and should be allowed to dry out slightly between waterings. Be careful not to overwater, as this can cause root rot."
+    },
+    {
+        "tag": "orchid",
+        "input": "How do I care for my orchid plant?",
+        "output": "Orchids require specific care, including bright but indirect light, well-draining soil, and regular fertilization. Research the specific care requirements for your orchid species."
+    },
+    {
+        "tag": "orchid",
+        "input": "What are some common diseases that affect orchids?",
+        "output": "Orchids can beaffected by diseases such as root rot, leaf spot, and fungal infections. Proper care, including good air circulation and avoiding overwatering, can help prevent these issues."
+    },
+    {
+        "tag": "orchid",
+        "input": "What is the meaning of an orchid?",
+        "output": "Orchids are often associated with beauty, love, and strength, and are often given as gifts to show admiration or appreciation."
+    }
+]
+}
